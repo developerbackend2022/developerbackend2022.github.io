@@ -8710,7 +8710,7 @@ HomeTwoComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0_
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "div", 20);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "span");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](31, "img", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, " Welcome To FMG ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, " Welcome To ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "h1");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](34, "Future Mortgage Group");
@@ -8728,7 +8728,7 @@ HomeTwoComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0_
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "div", 20);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "span");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](42, "img", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](43, " Welcome To FMG ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](43, " Welcome To ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](44, "h1");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](45, "Future Mortgage Group");
@@ -8746,7 +8746,7 @@ HomeTwoComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0_
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "div", 20);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "span");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](53, "img", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](54, " Welcome To FMG ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](54, " Welcome To ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "h1");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](56, "Future Mortgage Group");
@@ -8775,7 +8775,7 @@ HomeTwoComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0_
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "li");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](70, "i", 30);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](71, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](72, "(24 hours / 7 days)");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](72, "(00 hours / 0 days)");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](73, "a", 31);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](74, "0000 000 0000");
@@ -8790,10 +8790,10 @@ HomeTwoComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0_
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](78, "li");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](79, "i", 33);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](80, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](81, "Mon-Fri (8am - 6pm)");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](81, "Lorem-Ipsum (00am - 00pm)");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](83, "Sat-Sun (10am - 2pm)");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](83, "Lorem-Ipsum (00am - 00pm)");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](84, "li");
@@ -9605,7 +9605,7 @@ HomeTwoComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0_
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](580, "ul", 136);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](581, "li");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](582, "a");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](583, "How do you qualify for a loan?");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](583, "Aed do eiusmod tempor incididunt ut labore?");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](584, "p");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](585, "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam");
@@ -9613,7 +9613,7 @@ HomeTwoComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0_
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](586, "li");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](587, "a");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](588, "A Good Lender Will Clearly Explain Mortgage?");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](588, "Aed do eiusmod tempor incididunt ut labore et?");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](589, "p");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](590, "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam");
@@ -9621,7 +9621,7 @@ HomeTwoComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0_
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](591, "li");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](592, "a");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](593, "Can You Get A Mortgage Without A Credit Score?");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](593, "Aed do eiusmod tempor incididunt ut?");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](594, "p");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](595, "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam");
@@ -9629,7 +9629,7 @@ HomeTwoComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0_
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](596, "li");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](597, "a");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](598, "How Much Home Can You Afford?");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](598, "Aed do eiusmod tempor incididunt ut labore et?");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](599, "p");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](600, "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam");
