@@ -11288,7 +11288,7 @@ button:focus {
   height: 100%;
   top: 0;
   left: 0;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   z-index: -1;
   border-radius: 4px;
   transition: 0.5s all ease;
@@ -11459,7 +11459,7 @@ button:focus {
   height: 100%;
   top: 0;
   left: 0;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   z-index: -1;
   transition: 0.5s all ease;
 }
@@ -11591,7 +11591,7 @@ button:focus {
   display: inline-block;
   font-weight: 600;
   font-size: 18px;
-  background: linear-gradient(90deg, #ffffff 23%, #ffffff 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -11647,7 +11647,7 @@ button:focus {
   padding-bottom: 100px;
 }
 .one-about-area .about-content .about-tablist {
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   padding: 30px 30px 30px;
   margin-bottom: 20px;
 }
@@ -11777,7 +11777,10 @@ button:focus {
   opacity: 1;
 }
 .one-service-area nav .nav-tabs .nav-default.active .service-item i {
-  color: #ffffff;
+  background: linear-gradient(90deg, #fff 23%, #fff 64%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .one-service-area nav .nav-tabs .nav-default.active .service-item span {
   color: #ffffff;
@@ -11797,14 +11800,17 @@ button:focus {
   height: 100%;
   left: 0;
   top: 0;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   border-radius: 4px;
   opacity: 0;
   z-index: -1;
 }
 .one-service-area .service-item i {
   display: block;
-  color: #0d1820;
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   font-size: 50px;
   margin-bottom: 15px;
   transition: 0.5s all ease;
@@ -11850,7 +11856,7 @@ button:focus {
   position: relative;
   top: 3px;
   margin-right: 3px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -11865,7 +11871,7 @@ button:focus {
   display: inline-block;
   font-weight: 600;
   font-size: 16px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -11922,7 +11928,7 @@ button:focus {
   width: 80px;
   height: 65px;
   line-height: 65px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -11943,7 +11949,7 @@ button:focus {
   width: 80px;
   height: 65px;
   line-height: 65px;
-  background: linear-gradient(90deg, #fff 23%, #fff 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -12003,7 +12009,7 @@ button:focus {
 }
 .one-among-area .among-item:hover .among-bottom {
   border-bottom: 3px solid;
-  border-image-source: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  border-image-source: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   border-image-slice: 1;
 }
 .one-among-area .among-item .among-top {
@@ -12031,7 +12037,7 @@ button:focus {
   border-radius: 50%;
   text-align: center;
   font-size: 50px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -12055,7 +12061,7 @@ button:focus {
   display: inline-block;
   font-weight: 600;
   font-size: 14px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -12064,7 +12070,7 @@ button:focus {
   left: -3px;
 }
 .one-among-area .among-item .among-bottom i {
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -12093,7 +12099,7 @@ button:focus {
 }
 .one-among-area .center .among-bottom {
   border-bottom: 3px solid;
-  border-image-source: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  border-image-source: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   border-image-slice: 1;
 }
 /*-- End Among --*/
@@ -12134,7 +12140,7 @@ button:focus {
   height: 100%;
   top: 0;
   left: 0;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   z-index: -1;
   border-radius: 4px;
   transition: 0.5s all ease;
@@ -12284,7 +12290,7 @@ button:focus {
   height: 100%;
   top: 0;
   left: 0;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   z-index: -1;
   border-radius: 4px;
   transition: 0.5s all ease;
@@ -12404,7 +12410,7 @@ button:focus {
   width: 30px;
   height: 30px;
   line-height: 30px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -12462,7 +12468,7 @@ button:focus {
   top: 17px;
   color: #ffffff;
   text-align: center;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   border-radius: 50%;
   font-size: 26px;
 }
@@ -12550,7 +12556,7 @@ button:focus {
   border-radius: 50%;
   text-align: center;
   color: #ffffff;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   font-size: 20px;
   position: absolute;
   right: 0;
@@ -12711,7 +12717,7 @@ button:focus {
   height: 100%;
   top: 0;
   left: 0;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   z-index: -1;
   border-radius: 4px;
   transition: 0.5s all ease;
@@ -12801,7 +12807,7 @@ button:focus {
   display: inline-block;
   color: #ffffff;
   font-size: 13px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   padding: 7px 12px;
   position: absolute;
   bottom: 0;
@@ -12943,7 +12949,7 @@ button:focus {
   height: 100%;
   top: 0;
   left: 0;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   z-index: -1;
   border-radius: 4px;
   transition: 0.5s all ease;
@@ -12998,9 +13004,10 @@ button:focus {
   border: 1px solid #8f8f8f;
   text-align: center;
   border-radius: 50%;
-  color: #8f8f8f;
+  color: #fff;
   font-size: 18px;
   margin-bottom: 0;
+  background: linear-gradient(90deg, #00008b 43%, #ADD8E6 84%);
 }
 .one-footer-area .footer-item .footer-logo ul li a:hover {
   color: #ffffff;
@@ -13016,7 +13023,10 @@ button:focus {
   font-weight: 600;
   font-size: 20px;
   margin-bottom: 25px;
-  color: #ffffff;
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .one-footer-area .footer-item .footer-quick ul {
   margin: 0;
@@ -13043,7 +13053,10 @@ button:focus {
   font-weight: 600;
   font-size: 20px;
   margin-bottom: 25px;
-  color: #ffffff;
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .one-footer-area .footer-item .footer-address ul {
   margin: 0;
@@ -13217,7 +13230,7 @@ button:focus {
   height: 100%;
   top: 0;
   left: 0;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   z-index: -1;
   border-radius: 4px;
   transition: 0.5s all ease;
@@ -13455,7 +13468,7 @@ button:focus {
   display: inline-block;
   border-radius: 50%;
   color: #ffffff;
-  background-color: #0d1820;
+  background: linear-gradient(90deg, #00008b 43%, #ADD8E6 84%);
   text-align: center;
   font-size: 45px;
   margin-right: 15px;
@@ -13484,7 +13497,7 @@ button:focus {
 }
 .two-mission-area .mission-content .mission-bottom ul li .mission-item i {
   display: block;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -13609,7 +13622,7 @@ button:focus {
 }
 .two-house-area .house-item .house-icon i {
   display: inline-block;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -13699,7 +13712,7 @@ button:focus {
   height: 70px;
   left: 0;
   top: 0;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   border-radius: 50%;
   z-index: -1;
   opacity: 0;
@@ -13807,7 +13820,7 @@ button:focus {
   border-radius: 50%;
   text-align: center;
   font-size: 20px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   position: absolute;
   bottom: 0;
   right: 0;
@@ -13820,7 +13833,7 @@ button:focus {
 .two-lover-area .lover-item ul li .lover-content span {
   display: block;
   font-size: 15px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -14181,7 +14194,7 @@ button:focus {
   width: 100%;
   height: 100%;
   border-radius: 30px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   opacity: 0;
   z-index: -1;
 }
@@ -14214,7 +14227,7 @@ button:focus {
   font-size: 22px;
   position: relative;
   top: 4px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -14366,7 +14379,7 @@ button:focus {
   border-radius: 50%;
   box-shadow: 0px 0px 25px 0px #dddddd6e;
   text-align: center;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -14554,7 +14567,7 @@ button:focus {
 .three-team-area .team-item .team-bottom span {
   display: block;
   font-size: 15px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -14581,7 +14594,7 @@ button:focus {
 }
 .three-team-area .team-call p i {
   display: inline-block;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -14659,13 +14672,13 @@ button:focus {
   color: #777777;
 }
 .three-loan-area .loan-item:hover a {
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .three-loan-area .loan-item:hover a i {
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -14803,7 +14816,7 @@ button:focus {
 }
 .three-review-area .three-review-slider .review-item i {
   display: inline-block;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -14935,14 +14948,14 @@ button:focus {
 /*-- Header Top --*/
 .four-header-top .header-partner p a {
   color: transparent;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .four-header-top .header-call ul li span {
   color: transparent;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -14950,7 +14963,7 @@ button:focus {
 /*-- End Header Top --*/
 /*-- Navbar --*/
 .navbar-light-four {
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   position: relative;
   z-index: 1;
 }
@@ -15094,7 +15107,7 @@ button:focus {
   height: 100%;
   top: 0;
   left: 0;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   border-radius: 4px;
   z-index: -1;
 }
@@ -15247,7 +15260,7 @@ button:focus {
   box-shadow: 0px 0px 20px 0px #dddddd96;
 }
 .four-about-area .about-img .about-inner h3 {
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -15291,20 +15304,20 @@ button:focus {
   color: #bedaef;
 }
 .four-expect-area .expect-item:hover a, .four-expect-area .expect-item.active a {
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .four-expect-area .expect-item:hover a i, .four-expect-area .expect-item.active a i {
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .four-expect-area .expect-item .expect-icon i {
   display: inline-block;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -15419,7 +15432,7 @@ button:focus {
 .four-record-area .record-content .record-item h3 {
   font-weight: 700;
   font-size: 75px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -15509,7 +15522,7 @@ button:focus {
   width: 70px;
   height: 70px;
   display: inline-block;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -15561,11 +15574,11 @@ button:focus {
   height: 40px;
   left: -25px;
   top: 8px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
 }
 .four-team-area .team-item p {
   margin-bottom: 20px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -15857,7 +15870,7 @@ button:focus {
   height: 100%;
   top: 0;
   left: 0;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   opacity: 0;
   z-index: -1;
 }
@@ -15927,7 +15940,7 @@ button:focus {
   height: 100%;
   top: 0;
   left: 0;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   z-index: -1;
   transition: 0.5s all ease;
 }
@@ -15983,7 +15996,7 @@ button:focus {
   margin-bottom: 15px;
   display: inline-block;
   font-size: 35px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -16117,7 +16130,7 @@ button:focus {
   height: 100%;
   top: 0;
   left: 0;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   border-radius: 50px;
   z-index: -1;
   transition: 0.5s all ease;
@@ -16303,12 +16316,12 @@ button:focus {
   height: 3px;
   top: 0;
   left: 0;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
 }
 .five-counter-area .counter-item h3 {
   font-weight: 700;
   font-size: 75px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -16386,7 +16399,7 @@ button:focus {
   background-color: #dcf8ef;
 }
 .five-blog-area .blog-item .blog-bottom ul li i {
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -16481,7 +16494,7 @@ button:focus {
 }
 .five-footer-area .footer-item .footer-address .footer-form-btn {
   color: #ffffff;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
 }
 .five-footer-area .footer-item .footer-address .footer-form-btn:hover {
   background: #0d1820;
@@ -16969,7 +16982,7 @@ button:focus {
   border-right: 0;
 }
 .six-nearly-area .nearly-content .nav-tabs .nav-default.active {
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -17239,7 +17252,7 @@ button:focus {
   font-weight: 600;
   font-size: 20px;
   margin-bottom: 5px;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -17274,7 +17287,7 @@ button:focus {
   width: 100%;
   height: 100%;
   z-index: 99999;
-  background: linear-gradient(90deg, #00008b 23%, #1414bd 64%);
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
 }
 .spinner {
   width: 40px;
@@ -17317,7 +17330,7 @@ button:focus {
   z-index: 10;
 }
 .back-to-top-btn i {
-  background: #00008b;
+  background: linear-gradient(90deg, #00008b 23%, #ADD8E6 64%);
   color: #ffffff;
   height: 50px;
   width: 50px;
